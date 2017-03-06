@@ -1,0 +1,31 @@
+{
+  "name": "restful-api",
+  "version": "0.0.1",
+  "description": "RESTful API学习项目！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingKui/RESTful-API.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "康兵奎",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BingKui/RESTful-API/issues"
+  },
+  "homepage": "https://github.com/BingKui/RESTful-API#readme",
+  "dependencies": {
+    "config-lite": "^1.5.0",
+    "express": "^4.15.1",
+    "log4js": "^1.1.1",
+    "mongoose": "^4.8.6"
+  }
+}
